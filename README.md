@@ -10,15 +10,15 @@ eksplorasi data historis harga saham Microsoft (MSFT) dan Nvidia (NVDA), serta m
 - scikit-learn
 - yfinance
 
-📁 Struktur Folder
-📦root/
- ┣ 📄 MSFT_cleaned.csv
- ┣ 📄 NVDA_cleaned.csv
- ┣ 📄 stock_forecasting.ipynb
- ┗ 📄 README.md
+📁 Struktur Folder  
+📦root/  
+ ┣ 📄 MSFT_cleaned.csv  
+ ┣ 📄 NVDA_cleaned.csv  
+ ┣ 📄 stock_forecasting.ipynb  
+ ┗ 📄 README.md  
  
-🔍 Tahapan Proyek
-Data Collection
+🔍 Tahapan Proyek  
+Data Collection  
 - Menggunakan yfinance untuk mengunduh data historis saham.
 - Preprocessing
 - Rename kolom agar lebih readable
